@@ -1,0 +1,17 @@
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\bin\Debug\net6.0\KanyeRon.exe
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\bin\Debug\net6.0\KanyeRon.deps.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\bin\Debug\net6.0\KanyeRon.runtimeconfig.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\bin\Debug\net6.0\KanyeRon.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\bin\Debug\net6.0\KanyeRon.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\KanyeRon.csproj.AssemblyReference.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\KanyeRon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\KanyeRon.AssemblyInfoInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\KanyeRon.AssemblyInfo.cs
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\KanyeRon.csproj.CoreCompileInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\KanyeRon.csproj.CopyComplete
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\KanyeRon.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\refint\KanyeRon.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\KanyeRon.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\KanyeRon.genruntimeconfig.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\KanyeRon\KanyeRon\obj\Debug\net6.0\ref\KanyeRon.dll
